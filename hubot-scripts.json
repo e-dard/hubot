@@ -1,7 +1,6 @@
 [ "redis-brain.coffee",
   "tweet.coffee",
   "shipit.coffee",
-  "yuno.coffee",
   "bees.coffee",
   "cleverbot.coffee",
   "meme_captain.coffee"]
